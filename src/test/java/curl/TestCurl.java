@@ -1,6 +1,5 @@
 package curl;
 
-import org.apache.http.HttpResponse;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
