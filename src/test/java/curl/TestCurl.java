@@ -19,7 +19,6 @@ public class TestCurl {
 	public void curlUploadFile() {
 		
 		HttpResponse Response = curl.uploadFile();
-		System.out.print(Response.toString());
 	}
 
 }
