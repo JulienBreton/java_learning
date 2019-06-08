@@ -18,7 +18,7 @@ public class TestCurl {
 	@Test
 	public void curlUploadFile() {
 		
-		HttpResponse Response = curl.uploadFile();
+		curl.uploadFile();
 	}
 
 }
